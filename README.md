@@ -5,3 +5,4 @@
 * I believe coding can make the world a better place.
 * I believe bitcoin is the future money.₿₿₿
 * I love ethereum.
+* I don't like ethereum gas fee.
